@@ -1,0 +1,796 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\ajax\libs\jquery\2.1.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://avatars.mds.yandex.net/get-altay/1860543/badge_rating_5.0/orig
+File Name: C:\Downloaded Web Sites\sofiadoors.com\get-altay\1860543\badge_rating_5.0\orig
+Content Type: image/png
+
+Uri: https://calltracking.alytics.ru/api/script/c357ccdb4842fc72
+File Name: C:\Downloaded Web Sites\sofiadoors.com\api\script\script.js
+Content Type: application/javascript
+
+Uri: https://doors-sofia.ru/image/catalog/bank/catalog/invisible2.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\image\catalog\bank\catalog\invisible2.jpg
+Content Type: image/jpeg
+
+Uri: https://doors-sofia.ru/image/catalog/bank/invisible/2.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\image\catalog\bank\invisible\2.png
+Content Type: image/png
+
+Uri: https://doors-sofia.ru/image/catalog/invizibl/322055.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\image\catalog\invizibl\322055.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap
+File Name: C:\Downloaded Web Sites\sofiadoors.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:300,400,700,900
+File Name: C:\Downloaded Web Sites\sofiadoors.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700
+File Name: C:\Downloaded Web Sites\sofiadoors.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\sofiadoors.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\sofiadoors.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\sofiadoors.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\sofiadoors.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\sofiadoors.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\sofiadoors.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\sofiadoors.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\sofiadoors.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\sofiadoors.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\sofiadoors.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/450763
+File Name: C:\Downloaded Web Sites\sofiadoors.com\watch\450763
+Content Type: image/gif
+
+Uri: https://sofia-invisible.ru/wp-content/uploads/2020/12/back.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\wp-content\uploads\2020\12\back.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/assets/92859014/yii.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\assets\92859014\yii.js
+Content Type: application/javascript
+
+Uri: https://sofiadoors.com/assets/de040170/jquery.pjax.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\assets\de040170\jquery.pjax.js
+Content Type: application/javascript
+
+Uri: https://sofiadoors.com/blog/wp-content/uploads/blos/4.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\blog\wp-content\uploads\blos\4.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-na-seba
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-na-seba.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-na-seba/invisible-na-seba
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-na-seba\invisible-na-seba.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-na-seba/skrytaa-dver-invisible-na-seba-anodirovannaya
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-na-seba\skrytaa-dver-invisible-na-seba-anodirovannaya.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-na-seba/skrytaa-dver-invisible-na-seba-anodirovannaya-chernaya
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-na-seba\skrytaa-dver-invisible-na-seba-anodirovannaya-chernaya.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-na-seba/skrytaa-dver-invisible-na-seba-latun
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-na-seba\skrytaa-dver-invisible-na-seba-latun.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-na-seba/skrytaa-dver-invisible-na-seba-med
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-na-seba\skrytaa-dver-invisible-na-seba-med.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-na-seba/skrytaa-dver-invisible-na-seba-okrashennaya-ral
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-na-seba\skrytaa-dver-invisible-na-seba-okrashennaya-ral.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-na-seba/skrytaa-dver-invisible-na-seba-platina
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-na-seba\skrytaa-dver-invisible-na-seba-platina.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-na-seba/skrytaa-dver-invisible-na-seba-titan
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-na-seba\skrytaa-dver-invisible-na-seba-titan.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-na-seba/skrytaa-dver-invisible-na-seba-zoloto
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-na-seba\skrytaa-dver-invisible-na-seba-zoloto.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-na-seba?&construction[]=5
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-na-seba-1.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-ot-seba
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-ot-seba.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-ot-seba/invisible
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-ot-seba\invisible.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-ot-seba/skrytaa-dver-invisible-ot-seba-anodirovannaya
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-ot-seba\skrytaa-dver-invisible-ot-seba-anodirovannaya.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-ot-seba/skrytaa-dver-invisible-ot-seba-anodirovannaya-chernaya
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-ot-seba\skrytaa-dver-invisible-ot-seba-anodirovannaya-chernaya.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-ot-seba/skrytaa-dver-invisible-ot-seba-korob-latun
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-ot-seba\skrytaa-dver-invisible-ot-seba-korob-latun.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-ot-seba/skrytaa-dver-invisible-ot-seba-med
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-ot-seba\skrytaa-dver-invisible-ot-seba-med.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-ot-seba/skrytaa-dver-invisible-ot-seba-okrashennaya-ral
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-ot-seba\skrytaa-dver-invisible-ot-seba-okrashennaya-ral.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-ot-seba/skrytaa-dver-invisible-ot-seba-platina
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-ot-seba\skrytaa-dver-invisible-ot-seba-platina.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-ot-seba/skrytaa-dver-invisible-ot-seba-titan
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-ot-seba\skrytaa-dver-invisible-ot-seba-titan.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-ot-seba/skrytaa-dver-invisible-ot-seba-zoloto
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-ot-seba\skrytaa-dver-invisible-ot-seba-zoloto.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/catalog/skrytye-dveri/skrytaa-dver-ot-seba?&construction[]=5
+File Name: C:\Downloaded Web Sites\sofiadoors.com\catalog\skrytye-dveri\skrytaa-dver-ot-seba-1.html
+Content Type: text/html
+
+Uri: https://sofiadoors.com/css/catalog/new.css?v11
+File Name: C:\Downloaded Web Sites\sofiadoors.com\css\catalog\new.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/css/main_slider.css?v=4
+File Name: C:\Downloaded Web Sites\sofiadoors.com\css\main_slider.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/css/yandex_rating.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\css\yandex_rating.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/favicon.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\favicon.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/fonts/HelveticaRegular.woff
+File Name: C:\Downloaded Web Sites\sofiadoors.com\fonts\HelveticaRegular.woff
+Content Type: application/font-woff
+
+Uri: https://sofiadoors.com/images/info/compounding-faq.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\info\compounding-faq.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/images/mp_l.svg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\mp_l.svg
+Content Type: image/svg+xml
+
+Uri: https://sofiadoors.com/images/new_logo.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\new_logo.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/images/site/11.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\site\11.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/site/ar-d-m.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\site\ar-d-m.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/images/site/ar-d.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\site\ar-d.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/images/site/ar-r.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\site\ar-r.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/images/site/ar-red-b.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\site\ar-red-b.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/images/site/burger.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\site\burger.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/images/site/c-b.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\site\c-b.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/images/site/cart.svg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\site\cart.svg
+Content Type: image/svg+xml
+
+Uri: https://sofiadoors.com/images/site/insock.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\site\insock.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/images/site/qu.svg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\site\qu.svg
+Content Type: image/svg+xml
+
+Uri: https://sofiadoors.com/images/site/sofia-logo.svg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\site\sofia-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://sofiadoors.com/images/site/sofia_invisible_front-page.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\site\sofia_invisible_front-page.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/images/site/stocks.svg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\site\stocks.svg
+Content Type: image/svg+xml
+
+Uri: https://sofiadoors.com/images/slider/collection/chalet.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\slider\collection\chalet.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/slider/collection/classic.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\slider\collection\classic.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/slider/collection/elegant.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\slider\collection\elegant.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/slider/collection/infinity.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\slider\collection\infinity.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/slider/collection/light.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\slider\collection\light.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/slider/collection/manigliona.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\slider\collection\manigliona.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/slider/collection/master-i-margarita.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\slider\collection\master-i-margarita.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/slider/collection/metamorfosa.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\slider\collection\metamorfosa.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/slider/collection/original.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\slider\collection\original.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/slider/collection/phantom.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\slider\collection\phantom.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/slider/collection/rain.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\slider\collection\rain.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/slider/collection/skyline.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\slider\collection\skyline.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/slider/collection/vision.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\slider\collection\vision.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/tvproj/ВЕТЕР ПЕРЕМЕН/4L5A3596.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\tvproj\ВЕТЕР ПЕРЕМЕН\4L5A3596.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/tvproj/Кавайная гостиная /fargo017.JPG
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\tvproj\Кавайная гостиная \fargo017.JPG
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/images/tvproj/ЭФФЕКТ МАТРИЦЫ/4L5A6212.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\images\tvproj\ЭФФЕКТ МАТРИЦЫ\4L5A6212.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/js/common.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\js\common.js
+Content Type: application/javascript
+
+Uri: https://sofiadoors.com/js/goals.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\js\goals.js
+Content Type: application/javascript
+
+Uri: https://sofiadoors.com/js/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\js\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/js/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\js\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://sofiadoors.com/js/jquery.maskedinput.min.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\js\jquery.maskedinput.min.js
+Content Type: application/javascript
+
+Uri: https://sofiadoors.com/js/sweetalert2/sweetalert2.all.min.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\js\sweetalert2\sweetalert2.all.min.js
+Content Type: application/javascript
+
+Uri: https://sofiadoors.com/libs/slick/slick-theme.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\libs\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/libs/slick/slick.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\libs\slick\slick.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/libs/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\libs\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://sofiadoors.com/so-funi/css/additions.css?788
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\css\additions.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/so-funi/css/custom.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\css\custom.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/so-funi/css/footer/footer1.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\css\footer\footer1.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/so-funi/css/header/header1.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\css\header\header1.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/so-funi/css/layout1/red.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\css\layout1\red.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/so-funi/css/responsive.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\css\responsive.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/so-funi/js/bootstrap/css/bs.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\js\bootstrap\css\bs.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/so-funi/js/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\js\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://sofiadoors.com/so-funi/js/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\js\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/so-funi/js/jquery/jquery-2.1.1.min.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\js\jquery\jquery-2.1.1.min.js
+Content Type: application/javascript
+
+Uri: https://sofiadoors.com/so-funi/js/soconfig/css/lib.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\js\soconfig\css\lib.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/so-funi/js/soconfig/js/jquery.elevateZoom-3.0.8.min.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\js\soconfig\js\jquery.elevateZoom-3.0.8.min.js
+Content Type: application/javascript
+
+Uri: https://sofiadoors.com/so-funi/js/soconfig/js/libs.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\js\soconfig\js\libs.js
+Content Type: application/javascript
+
+Uri: https://sofiadoors.com/so-funi/js/so_extra_slider/css/owl.carousel.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\js\so_extra_slider\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/so-funi/js/so_extra_slider/js/owl.carousel.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\js\so_extra_slider\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://sofiadoors.com/so-funi/js/so_filter_shop_by/css/nouislider.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\js\so_filter_shop_by\css\nouislider.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/so-funi/js/so_filter_shop_by/css/style.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\js\so_filter_shop_by\css\style.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/so-funi/js/so_filter_shop_by/js/nouislider.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\js\so_filter_shop_by\js\nouislider.js
+Content Type: application/javascript
+
+Uri: https://sofiadoors.com/so-funi/js/so_megamenu/so_megamenu.css
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\js\so_megamenu\so_megamenu.css
+Content Type: text/css
+
+Uri: https://sofiadoors.com/so-funi/js/so_megamenu/so_megamenu.js
+File Name: C:\Downloaded Web Sites\sofiadoors.com\so-funi\js\so_megamenu\so_megamenu.js
+Content Type: application/javascript
+
+Uri: https://sofiadoors.com/uploads/1/-NUzYbr9sqR3jGbhMraJJmx6DtZi8tHs.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\-NUzYbr9sqR3jGbhMraJJmx6DtZi8tHs.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/uploads/1/-wiKtyt0cwDoPDVAV45jZbsTapzIarWI.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\-wiKtyt0cwDoPDVAV45jZbsTapzIarWI.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/0FaPGfedOKzpDREIgGXttiNDML-ctRS0.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\0FaPGfedOKzpDREIgGXttiNDML-ctRS0.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/1eo8mnxLlZ127wpE1nebiqm9RErrA-Az.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\1eo8mnxLlZ127wpE1nebiqm9RErrA-Az.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/5POmqNL6nK1kZ9ECp-K9Hor2c8r8lQ65.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\5POmqNL6nK1kZ9ECp-K9Hor2c8r8lQ65.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/6RbNmVYenRnbcpqVzIVpJDf2ET5t4fMx.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\6RbNmVYenRnbcpqVzIVpJDf2ET5t4fMx.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/79OCotGVfTu4Z_zeZ3jRok5vhHrOKgQG.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\79OCotGVfTu4Z_zeZ3jRok5vhHrOKgQG.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/8Gfq2VIVy_gwAaOCVuIWjOu4s15UwxAU.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\8Gfq2VIVy_gwAaOCVuIWjOu4s15UwxAU.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/Alob7R6dmt33HoWdCUIYkR45ba7RcKel.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\Alob7R6dmt33HoWdCUIYkR45ba7RcKel.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/c654K_6RM-mrBgViKLkVi1v8ryaW2_Q1.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\c654K_6RM-mrBgViKLkVi1v8ryaW2_Q1.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/uploads/1/CbEgYQ1MHkCaUEp4RWZ24AY5ZvakX5sN.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\CbEgYQ1MHkCaUEp4RWZ24AY5ZvakX5sN.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/cJAeVngAk7VlgVqjNViTm5OxFVYsMIJW.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\cJAeVngAk7VlgVqjNViTm5OxFVYsMIJW.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/CmtSmMT8sUz9DIxJbH1_DZsV4aoLIMKO.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\CmtSmMT8sUz9DIxJbH1_DZsV4aoLIMKO.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/Drax_FM7HkNpFLJu4Bup24cE96KBX8RN.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\Drax_FM7HkNpFLJu4Bup24cE96KBX8RN.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/DsIP0qTR4xPUm3piVgvJrjDtPlrzrZTh.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\DsIP0qTR4xPUm3piVgvJrjDtPlrzrZTh.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/DYECeaz0FF8Nc4Coulyb3BYHoMyo-Qqo.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\DYECeaz0FF8Nc4Coulyb3BYHoMyo-Qqo.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/F6yfBlNaB9TbMidnOBB_a7cJLcSY-NgG.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\F6yfBlNaB9TbMidnOBB_a7cJLcSY-NgG.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/fMky9gx66GL4exBoSdEkCRYAy2mEiDE4.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\fMky9gx66GL4exBoSdEkCRYAy2mEiDE4.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/ftX3alDACmWJU_KtWGDIo34p9aF329R3.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\ftX3alDACmWJU_KtWGDIo34p9aF329R3.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/fY9S0vE5drswkora8hRdVgGT-5mL4w5M.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\fY9S0vE5drswkora8hRdVgGT-5mL4w5M.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/GdDFzN5W3SPUmIyAbvAFy1hwf8LZlcbg.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\GdDFzN5W3SPUmIyAbvAFy1hwf8LZlcbg.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/Hm-Q0dfyTq3R6HmK7Q0y3a5bK_LCa9yD.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\Hm-Q0dfyTq3R6HmK7Q0y3a5bK_LCa9yD.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/uploads/1/HxeReFqe7K67mA6pBcTfiQapcZDChgix.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\HxeReFqe7K67mA6pBcTfiQapcZDChgix.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/uploads/1/IceVdlSZ0EsNYsNdUZpZC7j5Lt5AC9ld.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\IceVdlSZ0EsNYsNdUZpZC7j5Lt5AC9ld.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/iSLxsaEkpUc7jD6wY5Bhcvb0kTerOUXu.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\iSLxsaEkpUc7jD6wY5Bhcvb0kTerOUXu.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/ixW9AVITs8qKtyDtayonOPgvz0oY6QKx.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\ixW9AVITs8qKtyDtayonOPgvz0oY6QKx.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/Jo0pihSw_1PyPGpO8FepeJQPdElaD9dp.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\Jo0pihSw_1PyPGpO8FepeJQPdElaD9dp.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/jP3jHX3tr7ch6bSJCIrUzprrThXqPJlM.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\jP3jHX3tr7ch6bSJCIrUzprrThXqPJlM.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/k1NvO8EkPkrceGtKw4uu9YUi0CAj3vwl.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\k1NvO8EkPkrceGtKw4uu9YUi0CAj3vwl.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/kmrRrvlrMs93o-ViH6PCKfR-N9wrK3R-.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\kmrRrvlrMs93o-ViH6PCKfR-N9wrK3R-.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/L33bwRVXXQY15J2hOI6yI5Z0TaloJG0m.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\L33bwRVXXQY15J2hOI6yI5Z0TaloJG0m.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/mktYCUKm1Ek32jF1iJN51tL-uf9j_2CN.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\mktYCUKm1Ek32jF1iJN51tL-uf9j_2CN.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/nD_5joO6L4FgkvMhuSj57OQJXrcqaqCn.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\nD_5joO6L4FgkvMhuSj57OQJXrcqaqCn.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/Nl_tDXjZpJ3NY46qLDi3skUK-FqDpBV0.png
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\Nl_tDXjZpJ3NY46qLDi3skUK-FqDpBV0.png
+Content Type: image/png
+
+Uri: https://sofiadoors.com/uploads/1/pr8Zqb3ybq7Kiguw98UQBpCss4E8xRm9.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\pr8Zqb3ybq7Kiguw98UQBpCss4E8xRm9.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/PWTME0w3rkLXg89qJUAi88mJrvGYuBZg.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\PWTME0w3rkLXg89qJUAi88mJrvGYuBZg.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/Q-zJz8aIipMRflrxQrSHmB0AKkcPecPI.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\Q-zJz8aIipMRflrxQrSHmB0AKkcPecPI.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/r-qiuv8gH5VM8sHoH82YvHwxOORJS_0u.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\r-qiuv8gH5VM8sHoH82YvHwxOORJS_0u.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/rG2NLm82R_V4DA7E_PoU8zeyi_ghAg6-.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\rG2NLm82R_V4DA7E_PoU8zeyi_ghAg6-.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/rTE0XcBQtax4psU-BC83wks-F_7vxVRL.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\rTE0XcBQtax4psU-BC83wks-F_7vxVRL.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/sSh-dGeiMcTlOJmLvIz3YLw9zWu0tL1I.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\sSh-dGeiMcTlOJmLvIz3YLw9zWu0tL1I.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/tBxgwDqkl_FpI2z-MYhNA2lRtkqXGGU7.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\tBxgwDqkl_FpI2z-MYhNA2lRtkqXGGU7.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/uB8fXwe2kjLmloSbPLuXBaFGzCnyGPPs.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\uB8fXwe2kjLmloSbPLuXBaFGzCnyGPPs.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/Vshc13FnbWm28ukdkJX-kWHd6v_c87NG.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\Vshc13FnbWm28ukdkJX-kWHd6v_c87NG.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/WADdPHM2CLoJ6MYVApMrmhhhv1VR5Keq.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\WADdPHM2CLoJ6MYVApMrmhhhv1VR5Keq.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/Wc_vxzUlerbRg-40zaVRFx8pW7vXzexZ.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\Wc_vxzUlerbRg-40zaVRFx8pW7vXzexZ.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/xbLJf3VOFVeUrAQ9hWMYZDNql1XZgXQK.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\xbLJf3VOFVeUrAQ9hWMYZDNql1XZgXQK.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/yF406xs-Y3sUpBnZDmmRynXIddl3TXme.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\yF406xs-Y3sUpBnZDmmRynXIddl3TXme.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/YQZaLPGW4qdnnAdgIwNu2iRsFxdTVW4D.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\YQZaLPGW4qdnnAdgIwNu2iRsFxdTVW4D.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/ZIX20fruObAPIvYHh833-TxiMnQIsj9o.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\ZIX20fruObAPIvYHh833-TxiMnQIsj9o.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/ZPUiMsGFdpgRKISbC6SkGtAbX1NbTNgR.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\ZPUiMsGFdpgRKISbC6SkGtAbX1NbTNgR.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/_5uAIZ58LQIn49dmqAzYAz4sH_3RBoas.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\_5uAIZ58LQIn49dmqAzYAz4sH_3RBoas.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/1/_vhMWwwEtKM0MizsKmCXtit49vcuKA0p.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\1\_vhMWwwEtKM0MizsKmCXtit49vcuKA0p.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/2/6j8iOVfNeX9C3OBppPbDEmh6Jb7QuEyD.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\2\6j8iOVfNeX9C3OBppPbDEmh6Jb7QuEyD.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/2/Invisible.mp4
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\2\Invisible.mp4
+Content Type: video/mp4
+
+Uri: https://sofiadoors.com/uploads/2/Invisible_Push-2ск.mp4
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\2\Invisible_Push-2ск.mp4
+Content Type: video/mp4
+
+Uri: https://sofiadoors.com/uploads/2/qltgSINhnEhaEUkO6t6-Gdg8QrruY950.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\2\qltgSINhnEhaEUkO6t6-Gdg8QrruY950.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/6L_184pOb6AoGqB2hp4zkSDj90furRaK.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\6L_184pOb6AoGqB2hp4zkSDj90furRaK.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/9-6QzgT0asgKqlvyMJwHTVSdLoVS7BRE.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\9-6QzgT0asgKqlvyMJwHTVSdLoVS7BRE.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/aIlN2c8rQw-o3QWMU4AO_UT_a6HAS2ig.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\aIlN2c8rQw-o3QWMU4AO_UT_a6HAS2ig.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/bc4D5inSKvf6PhrWCcYFOziyobCpCl4y.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\bc4D5inSKvf6PhrWCcYFOziyobCpCl4y.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/bT3X8WDttEcZWd1WVlSmobpvWD_BPdNR.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\bT3X8WDttEcZWd1WVlSmobpvWD_BPdNR.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/cBJt5wEvGE8kr0E-xVzrEcUFsCoBz59J.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\cBJt5wEvGE8kr0E-xVzrEcUFsCoBz59J.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/dTqUHiPbTK990YB4S-CkGI2JdiENTP2b.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\dTqUHiPbTK990YB4S-CkGI2JdiENTP2b.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/gDJXvmYrXZy5MRR-p7GFzj7aKL86kFuw.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\gDJXvmYrXZy5MRR-p7GFzj7aKL86kFuw.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/IxAaoUwkAVai_XB6T7FPyGqzwxzj9k2i.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\IxAaoUwkAVai_XB6T7FPyGqzwxzj9k2i.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/jGy3TIwBTyr9C12FQFiP4d7kwPQpPsFx.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\jGy3TIwBTyr9C12FQFiP4d7kwPQpPsFx.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/JVfkUH_TXgQyy1QvUv5XEqfDdomoxTth.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\JVfkUH_TXgQyy1QvUv5XEqfDdomoxTth.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/Kl5KTs_7OqsD8zSxAPo85A3V6NmWODHQ.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\Kl5KTs_7OqsD8zSxAPo85A3V6NmWODHQ.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/KOMWqIE2SJW-rVAHrP_J9Vfzesw0lwVV.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\KOMWqIE2SJW-rVAHrP_J9Vfzesw0lwVV.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/mlFexmaeYXDxwiTOkbti28vYBQ8KutAK.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\mlFexmaeYXDxwiTOkbti28vYBQ8KutAK.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/NTaSJD2VTn2GLOF7B3Qed0J3v0z-1OLJ.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\NTaSJD2VTn2GLOF7B3Qed0J3v0z-1OLJ.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/ouSBRqfeSEyiepDwzpuuTY-kKZQZAFfA.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\ouSBRqfeSEyiepDwzpuuTY-kKZQZAFfA.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/Pc2vbind39h7EOf-1rm3-rsGk1XLqC-Q.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\Pc2vbind39h7EOf-1rm3-rsGk1XLqC-Q.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/QkPKOFp-NTLLucCuDUnQCXEYDL0CpM7F.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\QkPKOFp-NTLLucCuDUnQCXEYDL0CpM7F.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/qltgSINhnEhaEUkO6t6-Gdg8QrruY950.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\qltgSINhnEhaEUkO6t6-Gdg8QrruY950.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/QORpv85jQybt4oKFpTNwbby_WkG5ISxm.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\QORpv85jQybt4oKFpTNwbby_WkG5ISxm.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/RS5ay_UuAPlGuBi8nKsv_iGoCqttwQR9.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\RS5ay_UuAPlGuBi8nKsv_iGoCqttwQR9.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/UqT8W9FdzS-1eIb-hjDdtxjvAEAn5YVz.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\UqT8W9FdzS-1eIb-hjDdtxjvAEAn5YVz.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/WX6JC2DJ7DiwNEn_6uvqvME_f5X8y0r6.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\WX6JC2DJ7DiwNEn_6uvqvME_f5X8y0r6.jpg
+Content Type: image/jpeg
+
+Uri: https://sofiadoors.com/uploads/XSPqELbmgNiRtVo3hn69W84wfUvEtnjk.jpg
+File Name: C:\Downloaded Web Sites\sofiadoors.com\uploads\XSPqELbmgNiRtVo3hn69W84wfUvEtnjk.jpg
+Content Type: image/jpeg
+
+Uri: https://vk.com/rtrg?p=VK-RTRG-1404163-gc5xu
+File Name: C:\Downloaded Web Sites\sofiadoors.com\rtrg
+Content Type: image/gif
+
+Uri: https://vk.com/rtrg?p=VK-RTRG-344097-gYYJb
+File Name: C:\Downloaded Web Sites\sofiadoors.com\rtrg-1
+Content Type: image/gif
+
+Uri: https://web.redhelper.ru/service/main.js?c=dilmah11
+File Name: C:\Downloaded Web Sites\sofiadoors.com\service\main.js
+Content Type: application/x-javascript
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LfI-EwkAAAAAKtGTl_NUYbSY9m-eDblY6ybtDu-
+File Name: C:\Downloaded Web Sites\sofiadoors.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-149412545-1
+File Name: C:\Downloaded Web Sites\sofiadoors.com\gtag\js
+Content Type: application/javascript
+

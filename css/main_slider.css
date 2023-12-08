@@ -1,0 +1,302 @@
+.aqua-logo {
+    margin: 25px 0 32px 0;
+    width: 90% !important;
+}
+
+body {
+    overflow-x: hidden !important;
+}
+
+#wrapper {
+    width: 100%;
+}
+
+.home-head-form-wrapp {
+    background: none;
+}
+
+.megamenu {
+    display: none;
+}
+
+.abs {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(45%);
+}
+
+.flex__block {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    max-width: 1170px;
+    margin: auto;
+    padding: 70px 0 75px 0;
+}
+
+.slider__title {
+    position: relative;
+    font-family: "Montserrat Light";
+    color: #ffffff;
+    font-size: 65px;
+    font-weight: 300;
+    letter-spacing: -1px;
+    line-height: 1;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.slider__desc {
+    color: #ffffff;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    margin: 50px 0 30px 0;
+}
+
+.slider__more_btn {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 3.5px;
+    text-transform: uppercase;
+}
+
+.slider__more_btn:focus {
+    color: #fff
+}
+
+.slider__more_btn img {
+    margin-right: 20px;
+}
+
+.box-content {
+    border-radius: 12px;
+    background-color: #ffffff26;
+    padding: 55px 40px 35px 40px;
+    min-width: 420px;
+    height: max-content;
+    align-self: center;
+}
+
+.form-control {
+    height: unset;
+}
+
+#form-formcreator189 input,
+#form-formcreator189 textarea {
+    border-radius: 4px;
+    padding: 17px 26px;
+    color: #303030;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#form-formcreator189 textarea {
+    min-height: 120px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group.send {
+    margin-bottom: 0;
+}
+
+.btn-default {
+    border-radius: 4px;
+    padding: 21px 0;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 3.5px;
+    text-transform: uppercase;
+}
+
+.slick-dots {
+    display: none !important;
+}
+
+.slider__title_min {
+    color: #ffffff;
+    font-family: 'Montserrat SemiBold';
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+.slider__arrows {
+    position: relative!important;
+    margin-bottom: 20px!important;
+    margin-top: -60px!important;
+}
+
+@media screen and (max-width: 1280px) {
+
+    /* .flex__block {
+        flex-wrap: wrap;
+        justify-content: space-around;
+        padding: 60px 25px;
+      } */
+    .slider__arrows {
+        display: none;
+    }
+
+    .box-content {
+        margin: 40px auto 25px auto;
+    }
+
+    .slick-dots {
+        margin-bottom: 90px;
+    }
+
+    .slick-dots li button::before {
+        color: #ffffff;
+        opacity: 0.3;
+        font-size: 10px;
+    }
+
+    .slick-dots li.slick-active button::before {
+        opacity: 1;
+        color: #ac2122;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .box-content {
+        min-width: 100%;
+    }
+
+    .slider__title {
+        font-size: 32px!important;
+    }
+
+    .slick-dots {
+        display: block !important;
+    }
+
+    .flex__block {
+        flex-wrap: wrap;
+        justify-content: space-around;
+        padding: 60px 25px;
+    }
+
+    .aqua-logo {
+        margin: 25px auto 32px auto;
+        width: 90%;
+    }
+
+    .flex__block>div {
+        width: 100%;
+    }
+
+    .slider__desc {
+        display: none;
+    }
+
+    .slider__more_btn {
+        border-radius: 5px;
+        border: 1px solid #ffffff;
+        display: block;
+        text-align: center;
+        padding: 16px;
+        margin: 74px 0;
+    }
+
+    .box-content {
+        min-width: calc(100% + 30px);
+        margin: 0;
+        padding: 55px 20px 35px 20px;
+    }
+
+    .slider__more_btn>img {
+        display: none !important;
+    }
+
+    .slider__title {
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .mobile_hide {
+        display: none !important;
+    }
+
+    .slider__title_min {
+        text-align: center;
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+}
+
+.main_slider video {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    top: 0;
+}
+.slick-slide { float: unset!important; height: unset!important; }
+.slick-track { display: flex!important; }
+
+.abs.abs_alt.desktop { display: block }
+.abs.abs_alt.mobile { display: none; }
+
+@media ( max-width: 700px ) {
+    .abs.abs_alt.desktop { display: none }
+    .abs.abs_alt.mobile { display: block; }
+}
+.homepage-form {
+    max-width: 428px;
+    width: 100%;
+}
+
+
+/* style start 15.09.2023 */
+/* first banner fullheight on desktop */
+
+@media (min-width: 1170px){
+    .flex__block{
+        align-items: center;
+        height: 97%;
+    }
+/*
+}
+@media (min-width: 1341px){
+*/
+    .home-head-form-wrapp{
+        height: calc(100vh - 167px)!important;
+    }
+}
+@media (min-width: 1170px) and (max-width: 1340px) {
+    .flex__block{
+        padding: 40px 0 0;
+    }
+    .home-head-form-wrapp{
+        height: calc(100vh - 142px)!important;
+    }
+    .fws-topbar{
+        margin: 15px auto 15px auto;
+    }
+    .box-content {
+        margin: 0px 0 0px 0;
+        position: absolute;
+        top: 20px;
+        right: 0;
+    }
+}
+
+/* style end 15.09.2023  */
